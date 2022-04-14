@@ -76,6 +76,8 @@ The following images are diagrams that go with the skeleton that was produced to
 
 ![](./imgs/activity.jpg)
 
+**Application Layout**
+![](./imgs/p1-layers.png)
 
 # Milestones
 > This file lays out a general timeline that you can follow to gauge your progress on P1. 

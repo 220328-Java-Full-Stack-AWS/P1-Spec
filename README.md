@@ -51,7 +51,7 @@ The persistence-layer system shall use JDBC to connect to a Postgres database. T
 # UI Help
 Due to the schedule of our curriculum, we won't begin discussing JavaScript until the week of the presentation. Your trainer will be providing drop-in JavaScript code you can use to connect your HTML/CSS front-end to your Java backend. You may need to adjust what is provided to fit into your application. Expect this no later than Monday 4/18/2022.
 
-## weDiagrams, Images, Models
+## Diagrams, Images, Models
 The following images are diagrams that go with the skeleton that was produced to guide you. These should be taken as guidance, not as requirement. Your project does not need to conform to what is seen in these images, your project should conform to the functional requirements and user stories laid out above.
 
 

@@ -29,7 +29,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 ### Stretch Goals:
  - Unit test coverage for service-layer classes*
 
-* - note that I moved testing from required to stretch. I'll be re-visiting testing with Junit Jupiter (Junit V5) and Mockito for future projects
+*note that I moved testing from required to stretch. I'll be re-visiting testing with Junit Jupiter (Junit V5) and Mockito for future projects
 
 The persistence-layer system shall use JDBC to connect to a Postgres database. The API-layer shall utilize Java servlets to expose a public interface. The front-end view shall use HTML/CSS/JavaScript to make an application that can call server-side components in a generally RESTful manner. The middle tier shall follow proper layered architecture, and have reasonable JUnit test coverage of the service layer. Webpages shall be styled to be functional and readable. 
 

@@ -17,6 +17,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
  - AJAX / Fetch API
 
 # Functional Requirements
+### Required:
  - Domain objects persisted in relational database
  - Database should be in 3NF
  - CRUD functionality for all domain objects
@@ -25,7 +26,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
  - Workflows to complete all user stories
  - Validate all user input
 
-# Stretch Goals
+### Stretch Goals:
  - Unit test coverage for service-layer classes*
 
 * - note that I moved testing from required to stretch. I'll be re-visiting testing with Junit Jupiter (Junit V5) and Mockito for future projects
